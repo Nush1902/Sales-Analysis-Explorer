@@ -1,5 +1,5 @@
 # Sales-Analysis-Explorer
-Exploring the Pandas library
+
 Sales Analysis Explorer is a Python project that leverages the power of Pandas to explore and analyze sales data, providing valuable insights and answers to various business questions. This project serves as an excellent example of how Pandas can be used for data exploration, data cleaning, and generating actionable insights from a dataset.
 
 ## Project Overview
